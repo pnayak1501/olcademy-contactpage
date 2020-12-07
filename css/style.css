@@ -1,0 +1,41 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+.container{
+    margin-right:30px;
+    width:55%;
+    background-color: darkgrey;
+    opacity: 0.8;
+}
+body{
+    background: url(../images/background.jpg) center center fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:whitesmoke;
+    font-family: 'Mulish', sans-serif;
+}
+
+.contact{
+    font-family: 'Bree Serif', serif;
+}
+
+.help{
+    font-size:30px;
+}
+
+.quote{
+    font-size:20px;
+}
+
+form{
+    font-size:15px;
+    margin-left:30px;
+    margin-right: 30px;
+}
+
+.btn-primary{
+    font-size:1.5em;
+    margin-left: 20px;
+}
